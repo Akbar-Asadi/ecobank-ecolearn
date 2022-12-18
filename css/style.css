@@ -1,0 +1,32 @@
+@import url('_media.css');
+@import url('_contact.css');
+@import url('_main.css');
+@import url('_footer.css');
+@font-face {
+    font-family: IRANSansX;
+    src: url(../Fonts/IRANSansX-Bold.woff) format("woff"),
+    url(../Fonts/IRANSansX-Bold.woff2) format("woff2"),
+    url(../Fonts/IRANSansX-Regular.woff) format("woff"),
+    url(../Fonts/IRANSansX-Regular.woff2) format("woff2");
+    font-weight: 700;
+    font-style: normal;
+}
+.app{
+    width: 1200px;
+    margin: 0 auto;
+}
+a{
+    color: #fff;
+}
+
+figure{
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+}
+.top{
+    position: fixed;
+    top: 17.5rem;
+    width: 100%;
+    z-index: 999;
+}

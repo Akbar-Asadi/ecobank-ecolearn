@@ -1,0 +1,218 @@
+.not-border{
+    
+    border-radius: 0!important;
+    margin-top: -10px;
+}
+.font-color-size{
+    padding-right: 10px;
+    margin-top: 50px;
+}
+.font-color-size p,
+.font-color-size-1 p{
+    color: #9b9998;
+    font-size: .8em;    
+}
+.font-color-size-1{
+    padding-right: 130px;
+    margin-top: 50px;
+}
+.Frame{
+   background-color:#fff;
+   border-radius: 10px;
+   height: 24em;   
+}
+.Frame p{
+    padding: 10px 50px 10px 0;
+}
+.Frame-2{
+    background-color:#fff;
+    border-radius: 10px;
+    margin: 0 40px; 
+    padding: 0 20px 20px;   
+}
+.Frame-2 p{
+    padding: 10px 40px 10px 0;
+}
+.frame-black{
+    background: #000;
+    color:#fff;
+    border-radius: 10px 10px 0 0;
+    margin: 0 30px 0 30px;
+}
+.frame-black p{
+    font-size: .9em;
+    padding: 0 20px 10px 0;
+}
+.frame-black img{
+    margin: 10px 10px 0 0;    
+}
+.frame-color{
+    background-color: #f7f6f2;
+    color: #b6b4b2;
+    border-radius: 0 0 10px 10px;
+    font-size: .9rem;
+    padding: 0 0 10px 10px;
+    margin: 0 30px 10px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.frame-color div:last-child p:first-child{
+    color: #000;
+    font-size: 1.5rem;
+}
+.frame-color div:first-child p{
+    padding: 20px 20px 0 0;
+}
+.hover{
+    transition: all .3s;
+}
+.hover:hover{
+    background-color: #f7f6f2;
+    border-radius: 10px;
+    margin: 0 30px;
+    cursor: pointer;
+    transform: translateX(100px);
+    box-shadow: 7px 7px 10px #777;
+}
+.hover:hover .frame-black{
+    margin: 0!important;
+}
+.color-light-gray{    
+    background-color: #f7f6f2;    
+    border-radius: 7px;
+    margin: 0 30px 0 30px;   
+    display: flex;
+    justify-content: space-between;
+}
+.color-light-gray p{
+    font-size: .9em;
+    padding: 0 20px 10px 0;
+}
+.color-light-gray img{
+    margin: 10px 10px 0 0;    
+}
+.color-light-gray i{
+    padding: 10px 0 0 40px;
+}
+.frame-color-light-gray{     
+    background-color: #f7f6f2;
+    color: #b6b4b2;
+    border-radius: 0 0 10px 10px;
+    font-size: .9rem;
+    padding: 0 0 10px 10px;    
+    margin: 0 30px 10px 30px;
+    display: flex;
+    justify-content: space-between; 
+}
+.frame-color-light-gray div:first-child p{
+    padding: 20px 20px 10px 50px;    
+}
+.frame-color-light-gray div:last-child p{
+    padding: 25px 80px 10px 33px;
+    color: #000;
+}
+.hover-2{
+    background-color:#fff;
+    transition: all .25s;
+}
+.hover-2:hover{
+    background-color: #f7f6f2;
+    border-radius: 10px;    
+    cursor: pointer;
+    transform: translateX(-100px);
+    box-shadow: -7px 7px 10px #777;    
+}
+.box-white{
+    background-color: #f01d9b;
+    height: 2em;
+}
+.around{
+    padding:100px 35px 20px 15px;
+}
+.text{    
+    padding: 20px;
+}
+.text h3{    
+    padding-bottom: 20px;
+}
+.text .first{    
+    color: #adaeab;
+    padding-bottom: 30px;
+}
+.small-box{
+    background-color: #fff;
+    border-radius: 10px;
+}
+.small-box h5{
+    color: #b68a80;
+    padding: 10px 20px ;   
+}
+.small-box .week{    
+    padding: 10px 20px 10px 10px;
+}
+.small-box .week p{
+    color: #adaeab; 
+    font-size: .8rem; 
+}
+.line-spacing{
+    padding: 0 5px;    
+}
+.color{
+    color: #6da29e;
+    font-size: .7rem;    
+}
+.USD{    
+    color: #adaeab;  
+    padding-right: 20px; 
+}
+.number{    
+    font-size: 1.4rem;
+    padding-left: 20px;
+}
+.small-box-black{
+    background-color:#000;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    font-size: .9rem;
+}
+.small-box-gradients{
+    background-color:#b92b27;
+    background: -webkit-linear-gradient(to right, #1565C0, #b92b27);
+    background: linear-gradient(to right, #1565C0, #b92b27);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: .9rem;
+    margin-top: 30px;
+}
+.w-weekly{
+    background-color: #fff;
+    border-radius: 10px;
+    margin:0 0 70px 70px;
+}
+.weekly,
+.weekly-first,
+.weekly-Second{
+    display: flex;
+    justify-content: space-evenly;  
+    padding-top: 10px;  
+}
+.weekly-first p{
+    padding-left: 10px;
+}
+.weekly-first img{    
+    padding: 5px 0 5px 10px;
+}
+.weekly-first a{
+    color: #000;
+}
+.weekly-Second p{
+    padding-left: 10px;
+}
+.weekly-Second a{
+    color: #000;
+}

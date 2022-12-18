@@ -1,0 +1,633 @@
+@media (min-width:1200px){
+    .app{
+        width: 1200px;
+    }
+    .top{        
+        top: 17.5rem!important;
+    }  
+    .header-title h2{ 
+        font-size: 1.3rem;  
+        position: absolute;
+        top: 8rem;
+        right: 30rem;
+    }
+    .container-fluid-custom .social-media a{
+        top: 5rem!important;
+    }
+    .header-title h1{        
+        position: absolute;
+        top:3rem;
+        margin-right:15em;
+    }
+    .header-title h3{
+        position: absolute;
+        top:12em;
+        margin-right:25em;
+    }
+    .header-title a{
+        position: absolute;
+        background-color: #6b6aa7;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 52px;
+        margin: 2px;
+        top:15em;
+        margin-right:7.6em;
+    }
+    .header-title a.one{
+        position: absolute;
+        background-color: #95d5cf;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 35px;
+        margin: 2px;   
+        top:15em;
+        margin-right:57em;
+    }
+    .header-title a.two{
+        position: absolute;
+        background-color: #37426e;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 29px;
+        margin: 2px;   
+        top:16.5em;
+        margin-right:52em;
+    }
+    .header-title a.three{
+        position: absolute;
+        background-color:#d4745e;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 28px;
+        margin: 2px;
+        top:16.5em;
+        margin-right:12em;
+    }
+    footer .Box-Color{
+       
+        width:65rem;
+    }
+    .Icon{
+        top: 12.2rem!important;
+        right: 45rem!important;
+    }
+    .final-part-5{
+        top: 41rem!important;
+       }
+}
+@media(max-width:1199.98px){
+    .app{
+     width: 992px !important;
+    }
+    .top{
+        top: 15.5rem!important;
+    }
+    .header-title h1{
+        position: absolute;
+        top: 1em;
+        margin-right:10.5em;
+    }
+    .header-title h2{ 
+        font-size: 1.2rem;  
+        position: absolute;
+        top: 6rem;
+        right: 23rem;
+    }
+    .header-title h3{
+        position: absolute;
+        top: 9.5em;
+        margin-right:19em;
+    }
+    .header-title a{
+        position: absolute;
+        background-color: #6b6aa7;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 52px;
+        margin: 2px;
+        top:12.8em;
+        margin-right:6em;
+    }
+    .header-title a.one{
+        position: absolute;
+        background-color: #95d5cf;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 35px;
+        margin: 2px;   
+        top:12.8em;
+        margin-right:45em;
+    }
+    .header-title a.two{
+        position: absolute;
+        background-color: #37426e;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 29px;
+        margin: 2px;   
+        top:14.5em;
+        margin-right:41em;
+    }
+    .header-title a.three{
+        position: absolute;
+        background-color:#d4745e;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 28px;
+        margin: 2px;
+        top:14.5em;
+        margin-right:10em;
+    }
+    .black-color h3{
+        font-size: .9rem;
+    }
+    .frame-color-light-gray p{
+        font-size: .8rem;
+    }
+    .font-color-size-1{       
+        padding-right: 2.8rem!important;
+    }
+    .w-weekly{
+        margin-left: 40px!important;
+    }   
+   .w-weekly .chart img{
+    width: 100%;
+    padding: 15px 0 15px 25px;
+   }
+   .Icon{
+    right: 40.6rem!important;
+   }
+    footer .Box-Color{    
+    width: 55rem;
+    top: 1.87rem;
+    right: 3.5rem;
+   }
+   .final-part {    
+    top: 23.75rem!important;    
+   }
+   .final-part-1 p{
+    padding-right: 10px;
+   }
+   .final-part-5{
+    top: 34rem!important;
+   }
+}
+
+
+
+@media(max-width:991.98px){
+    .app{
+        width: 768px!important;
+    }
+    .header-menu{        
+        display: none;        
+    }
+    .container-fluid-custom .contact{
+         padding-right: 120px!important;
+    }
+    .header-menu-burger{
+        display: inline-block!important;
+    } 
+    .header-menu-item{        
+        display: block!important;
+        border-bottom: 1px solid #cecece;        
+    }
+       
+    .header-title h1{
+        font-size: 1.2em;
+        position: absolute;
+        top: 1rem!important;
+        margin-right:9.5em;
+    }
+    .header-title h2{ 
+        font-size: 1rem;  
+        position: absolute;
+        top: 4.5rem;
+        right: 17rem;
+    }
+    .top{        
+        top: 13.5rem!important;
+    }
+    .header-title h3{
+        font-size: 1em;
+        position: absolute;
+        top: 8.5em;
+        margin-right:16.5em;
+    }
+    .header-title a{
+        font-size: .8rem;
+        position: absolute;
+        background-color: #6b6aa7;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 42px;
+        margin: 2px;
+        top:12.8em;
+        margin-right:6em;
+    }
+    .header-title a.one{
+        position: absolute;
+        background-color: #95d5cf;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 25px;
+        margin: 2px;   
+        top:12.8em;
+        margin-right:45em;
+    }
+    .header-title a.two{
+        position: absolute;
+        background-color: #37426e;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 19px;
+        margin: 2px;   
+        top:14.5em;
+        margin-right:41em;
+    }
+    .header-title a.three{
+        position: absolute;
+        background-color:#d4745e;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 18px;
+        margin: 2px;
+        top:14.5em;
+        margin-right:10em;
+    }
+    main h3{
+      font-size: 1rem;  
+    }
+    main p{
+        font-size: .8rem;  
+    }
+    .color-light-gray p{
+        padding-right: 10px!important;  
+    }
+    .color-light-gray i{        
+        padding-left: 10px!important;
+    }
+    .frame-color-light-gray p{
+        padding-right: 10px!important;
+    }
+    .frame-color-light-gray div:first-child p{
+        padding-left: 10px!important;       
+     }
+    .frame-color-light-gray div:last-child p{
+       padding-left: 10px!important;       
+    } 
+    .row .around{                
+        padding-top: 10px!important;
+    }
+    .small-box h5{
+        padding: 10px!important;
+    }
+    .USD{        
+       padding-right:  10px!important;
+    }
+    .number{
+        font-size: .9rem!important;
+    }
+    .week{
+        padding-right:  10px!important; 
+    }
+    .week p{
+        font-size: .7rem!important;
+    }
+    .small-box-black{
+        padding: 10px 10px 5px 10px;
+    }
+    .small-box-black p{
+        font-size: .5rem;        
+    }
+    .small-box-gradients p{
+         font-size: .5rem;
+    }
+    .font-color-size-1{
+        padding: 0!important;
+    } 
+    .font-color-size-1 h3{        
+        font-size: 1rem;
+       margin-right: 0; 
+    }
+    .font-color-size-1 p{     
+        margin-right: 0; 
+     }
+    footer .Box-Color{    
+        width: 40rem;
+        top: 1.87rem;
+        right: 4rem;
+        padding: .93rem;
+    } 
+    .Box-Color h2{
+        font-size: 1.6rem!important;
+    }
+    .Box-Color p{
+        font-size: .9rem!important;
+    }
+    input[type="email"]{    
+        width: 26rem!important;
+    }     
+    .Icon{
+        top: 9.2rem!important;
+        right: 30rem!important;
+    }
+    .Box-Color .help{
+        margin: 0 6.25rem;
+    }
+    .Box-Color .help p{
+        font-size: .8rem!important;
+        margin-left: 1.25rem;
+    }
+    .final-part {    
+        top: 17rem!important;    
+    }
+    .final-part img{
+        width: 75%!important;
+        margin-right:2rem;
+    } 
+    .final-part p{
+        font-size: .8rem!important;
+        margin-right: 2rem;
+    }
+    .final-part-2 a,
+    .final-part-3 a,
+    .final-part-4 a{
+       font-size: .8rem!important; 
+    }         
+    .final-part-5{
+        top: 26rem!important;        
+    } 
+    .final-part-5 p{
+        font-size: .7rem!important;
+    }  
+}
+@media(max-width:767.98px){
+    .app{
+        width: 576px!important;
+    }
+    .top{
+        top: 9.5rem!important;        
+    }
+    .container-fluid-custom .contact{
+        padding-right: 10px!important;
+        font-size: .9rem;
+   }
+    .container img{        
+        width: 100%;
+        margin-top: 20px;
+    }
+    .header-title h1{
+        font-size: 1em;
+        position: absolute;
+        top: 4em;
+        margin-right:7.5em;
+    }
+    .header-title h2{ 
+        font-size: .9rem;  
+        position: absolute;
+        top: 4rem;
+        right: 12rem;
+    }
+    .header-title h3{
+        font-size: .9rem;
+        position: absolute;
+        top: 7em;
+        margin-right:12em;
+    }
+    .header-title a{
+        font-size: .6rem;
+        position: absolute;
+        background-color: #6b6aa7;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 42px;
+        margin: 2px;
+        top:12.8em;
+        margin-right:6em;
+    }
+    .header-title a.one{
+        position: absolute;
+        background-color: #95d5cf;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 25px;
+        margin: 2px;   
+        top:12.8em;
+        margin-right:40em;
+    }
+    .header-title a.two{
+        position: absolute;
+        background-color: #37426e;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 19px;
+        margin: 2px;   
+        top:14.8em;
+        margin-right:38em;
+    }
+    .header-title a.three{
+        position: absolute;
+        background-color:#d4745e;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 18px;
+        margin: 2px;
+        top:14.8em;
+        margin-right:10em;
+    }
+    .col-xs-6,
+    .col-s-6,
+    .col-m-6 ,
+    .col-l-6,
+    .col-xl-6{
+      width: 100%!important;        
+    }
+    .Frames{
+        padding-right: 30px;
+    }
+    .font-color-size{
+        margin-top: 0!important;
+    }
+    .font-color-size h3,
+    .font-color-size-1 h3,
+    .text h3{
+        font-size: 1.2rem;
+    }
+    .Frame p{
+       font-size: 1rem;
+    }
+    .font-color-size-1{
+        padding-right: 45px!important;
+        margin-top: 0!important;
+    }
+    .small-box-black p,
+    .small-box-gradients p{
+        font-size: 1rem;
+    }    
+    .w-weekly{
+        margin-right:35px!important;
+    }
+    footer .Box-Color{    
+        width: 30rem;
+        top: 1.87rem;
+        right: 3.1rem;
+        padding: .5rem;
+    }
+    .Box-Color h2{
+        font-size: 1.4rem!important;
+    }
+    .Box-Color p{
+        display: none;
+    }
+    input[type="email"]{    
+        width: 22rem!important;
+    } 
+    .Icon{
+        top: 4.4rem!important;
+        right: 23rem!important;
+    }
+    input[type="checkbox"]{
+        display: none;
+    }
+    .final-part{        
+        top: 13rem !important;
+        padding: 0!important;
+    }
+    .final-part img{
+        width: 50%!important;
+        margin-right:3rem;
+    }
+    .final-part p{
+        font-size: .7rem!important;
+        margin-right:3rem;
+    }
+    .final-part-2 h4:nth-child(4),
+    .final-part-3 h4:nth-child(4),
+    .final-part-4 h4:nth-child(4){
+        opacity: 0;
+    }
+    .final-part-5{
+        top: 19rem!important;
+    }
+}
+@media(max-width:575.98px){
+    .app{
+        width: calc(100%-30px);
+        padding: 0 15px;
+    } 
+    .top{
+        display: none;        
+    }           
+    .header-title h1{
+        font-size: .9em;
+        position: absolute;
+        top: 6em;
+        margin-right:7.5rem;
+    }
+    .header-title h2{ 
+        font-size: .8rem;  
+        position: absolute;
+        top: 3.5rem;
+        right: 12rem;
+    }
+    .header-title h3{
+        font-size: .7em;
+        position: absolute;
+        top: 9em;
+        margin-right:16em;
+    }
+    .header-title a{
+        font-size: .5rem;
+        position: absolute;
+        background-color: #6b6aa7;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 42px;
+        margin: 2px;
+        top:14em;
+        margin-right:6em;
+    }
+    .header-title a.one{
+        position: absolute;
+        background-color: #95d5cf;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 25px;
+        margin: 2px;   
+        top:14em;
+        margin-right:47em;
+    }
+    .header-title a.two{
+        position: absolute;
+        background-color: #37426e;
+        color: #fff;    
+        border-radius: 15px;
+        padding: 4px 19px;
+        margin: 2px;   
+        top:16em;
+        margin-right:44em;
+    }
+    .header-title a.three{
+        position: absolute;
+        background-color:#d4745e;
+        color: #fff;
+        border-radius: 15px;
+        padding: 4px 18px;
+        margin: 2px;
+        top:16em;
+        margin-right:10em;
+    }
+    .hover:hover{   
+        transform: translateX(60px)!important;      
+    }
+    .hover-2:hover{
+        transform: translateX(-50px)!important;
+    }
+    footer .Box-Color{    
+        width: 28rem;
+        top: 1.8rem;
+        right: 3rem;
+        padding: .5rem;
+    }
+    .Box-Color h2{
+        font-size: 1.2rem!important;
+    }
+    input[type="email"]{    
+        width: 20rem!important;
+    }
+    .Icon{
+        top: 4.1rem!important;
+        right: 22rem!important;
+    }
+    .final-part{ 
+        width: 100%!important;       
+        top: 12rem !important;
+        justify-content: space-between!important;
+    }
+    .final-part-2 a,
+    .final-part-3 a,
+    .final-part-4 a{    
+        font-size: .6rem!important;
+    } 
+    .final-part-2 h4,
+    .final-part-3 h4,
+    .final-part-4 h4{
+        margin-bottom: 5px!important;
+    }
+    .final-part-4{
+        margin-left: 20px;
+    }
+    .final-part-5{               
+        top: 18rem !important; 
+    }
+    .final-part-5 p{
+        font-size: .6rem!important;
+    }
+}
+
+
+      
+
+    
